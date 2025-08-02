@@ -1,0 +1,7 @@
+librosa
+numpy
+matplotlib
+joblib
+scikit-learn
+torch
+kagglehub
